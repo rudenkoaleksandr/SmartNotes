@@ -554,10 +554,6 @@ body {
   display: none;
 }
 
- .logos {
-    display: none;
-}
-
 .slider {
   position: absolute;
   cursor: pointer;
@@ -663,6 +659,10 @@ input:checked + .slider:before {
 
   .paragraph {
     width: 355px;
+  }
+
+  .logos {
+    display: none;
   }
 
   .hero {
