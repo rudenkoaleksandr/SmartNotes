@@ -554,6 +554,10 @@ body {
   display: none;
 }
 
+ .logos {
+    display: none;
+}
+
 .slider {
   position: absolute;
   cursor: pointer;
@@ -792,11 +796,7 @@ input:checked + .slider:before {
   .pricing {
     padding: 64px 20px;
   }
-
-  .logos {
-    display: none;
-  }
-
+  
   .pricing-plans {
     padding: 0;
   }
